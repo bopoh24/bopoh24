@@ -3,6 +3,7 @@
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/bopoh24)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bopoh24/)](https://www.linkedin.com/in/bopoh24/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:alexander.s.voronin@gmail.com)
 
 
 I am a software engineer with over 10 years of experience as a web developer 
