@@ -14,7 +14,7 @@ and about 5 years of experience as a system administrator before.
 
 ### Technologies:
 <div>
-<img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="Golang" height="32" align="left">
+<img src="https://pkg.go.dev/static/shared/logo/go-blue.svg" alt="Golang" height="32" align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="32" align="left">  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Django" height="32" align="left">
 <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Postgres" height="32" align="left">
