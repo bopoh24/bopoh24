@@ -6,26 +6,28 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:alexander.s.voronin@gmail.com)
 
 
-I am a software engineer with over 10 years of experience as a web developer 
+I am a software engineer with over 10 years of experience as a web developer and about 5 years of experience as a system administrator before.
 
-and about 5 years of experience as a system administrator before.
+💻 Programming Languages and Technologies:
+- Proficient in Go and Python, leveraging their capabilities for building robust and scalable applications.
+- Knowledgeable in REST APIs/gRPC and building microservices architectures for distributed systems.
+- Experienced in computer vision, object detection, image processing, object tracking and more using OpenCV.
+- Familiar with ReactJS and its ecosystem, having worked on front-end projects to create interactive user interfaces.
+
+🚀 Recent Focus:
+- Currently, I am diving deeper into Go to explore its concurrency features and high-performance capabilities.
+
+🔧 Tech Stack:
+- Web Development: HTML, CSS, JavaScript, ReactJS.
+- Back-end: Go, Python.
+- Computer Vision: OpenCV.
+- Communication: REST, gRPC, WebSocket, WebRTC.
+- Databases: PostgreSQL, MySQL, MongoDB, Sqlite, Redis.
+
+Thank you for visiting my GitHub page! Feel free to get in touch if you have any questions or opportunities for collaboration.
 
 
 
-### Technologies:
-<div>
-<img src="https://go.dev/images/go-logo-blue.svg" alt="Golang" height="27" align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="32" align="left">  
-<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Postgres" height="32" align="left">
-<img src="https://upload.wikimedia.org/wikipedia/en/6/6b/Redis_Logo.svg" alt="Redis" height="32" align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" height="32" align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="32" align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="42" align="left">
-<img src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png" alt="OpenCV" height="40" align="left">
-</div>
-<br/>
-<br/>
-<br/>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bopoh24&layout=compact">
   <img align="left" height="130" src="https://github-readme-stats.vercel.app/api?username=bopoh24&hide=contribs&theme=nord&show_icons=true" />
