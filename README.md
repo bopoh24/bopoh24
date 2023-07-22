@@ -22,7 +22,7 @@ I am a software engineer with over 10 years of experience as a web developer and
 - Databases: PostgreSQL, MySQL, MongoDB, Sqlite, Redis.
 
 
-- 🚀 Recent Focus:
+🚀 Recent Focus:
 - Currently, I am diving deeper into Go to explore its concurrency features and high-performance capabilities.
 
 Thank you for visiting my GitHub page! Feel free to get in touch if you have any questions or opportunities for collaboration.
