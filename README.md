@@ -21,6 +21,7 @@ I am a software engineer with over 10 years of experience as a web developer and
 - Communication: REST, gRPC, WebSocket, WebRTC.
 - Databases: PostgreSQL, MySQL, MongoDB, Sqlite, Redis.
 
+
 - 🚀 Recent Focus:
 - Currently, I am diving deeper into Go to explore its concurrency features and high-performance capabilities.
 
