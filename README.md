@@ -15,7 +15,7 @@ I am a software engineer with over 10 years of experience as a web developer and
 - Familiar with ReactJS and its ecosystem, having worked on front-end projects to create interactive user interfaces.
 
 🔧 Tech Stack:
-- Back-end: Go, Python.
+- Go, Python.
 - Communication: REST, gRPC, WebSocket, WebRTC.
 - Databases: PostgreSQL, MySQL, MongoDB, Redis.
 - Computer Vision: OpenCV.
