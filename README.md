@@ -11,19 +11,16 @@ I am a software engineer with over 10 years of experience as a web developer and
 💻 Programming Languages and Technologies:
 - Proficient in Go and Python, leveraging their capabilities for building robust and scalable applications.
 - Knowledgeable in REST APIs/gRPC and building microservices architectures for distributed systems.
-- Experienced in computer vision, object detection, image processing, object tracking and more using OpenCV.
 - Familiar with ReactJS and its ecosystem, having worked on front-end projects to create interactive user interfaces.
+- Experienced in computer vision, object detection, image processing, object tracking and more using OpenCV.
 
 🔧 Tech Stack:
 - Go, Python.
+- Databases: PostgreSQL, MongoDB, Redis.
 - Communication: REST, gRPC, WebSocket, WebRTC.
-- Databases: PostgreSQL, MySQL, MongoDB, Redis.
+- Frontend: HTML/CSS, React/Redux.
 - Computer Vision: OpenCV.
-- Web Development: HTML, CSS, JavaScript, ReactJS.
 
-
-🚀 Recent Focus:
-- Currently, I am diving deeper into Go to explore its concurrency features and high-performance capabilities.
 
 Thank you for visiting my GitHub page! Feel free to get in touch if you have any questions or opportunities for collaboration.
 
