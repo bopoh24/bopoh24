@@ -5,23 +5,23 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bopoh24/)](https://www.linkedin.com/in/bopoh24/)
 
 
-I am a software engineer with over 10 years of experience as a web developer and about 5 years of experience as a system administrator before.
+I am a software engineer with over 10 years of experience as a web developer and approximately 5 years of prior experience as a system administrator. My primary focus is back-end development using Go, where I design and build scalable, reliable distributed systems.
 
 💻 Programming Languages and Technologies:
-- Proficient in Go and Python, leveraging their capabilities for building robust and scalable applications.
-- Knowledgeable in REST APIs/gRPC and building microservices architectures for distributed systems.
-- Familiar with ReactJS and its ecosystem, having worked on front-end projects to create interactive user interfaces.
-- Experienced in computer vision, object detection, image processing, object tracking and more using OpenCV.
+	•	Proficient in Go, with experience in building microservices and distributed systems.
+	•	Skilled in designing and implementing REST APIs, gRPC-based communication, and message-driven architectures.
+	•	Experienced in computer vision, including object detection, image processing, and object tracking using OpenCV.
+	•	Familiar with Python from earlier projects.
 
 🔧 Tech Stack:
-- Go, Python.
-- Databases: PostgreSQL, MongoDB, Redis.
-- Communication: REST, gRPC, WebSocket, WebRTC.
-- Frontend: HTML/CSS, React/Redux.
-- Computer Vision: OpenCV.
+	•	Languages: Go.
+	•	Databases: PostgreSQL, MongoDB, Redis.
+	•	Messaging Systems: NATS, Kafka.
+	•	Containerization and Orchestration: Docker, Kubernetes, Helm.
+	•	Communication: REST, gRPC, WebSocket, WebRTC.
+	•	Computer Vision: OpenCV.
 
-
-Thank you for visiting my GitHub page! Feel free to get in touch if you have any questions or opportunities for collaboration.
+Thank you for visiting my GitHub! Feel free to reach out if you’re interested in collaboration or have any questions.
 
 
 
