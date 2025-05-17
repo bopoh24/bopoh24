@@ -5,23 +5,18 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bopoh24/)](https://www.linkedin.com/in/bopoh24/)
 
 
-I am a software engineer with over 10 years of experience as a web developer and approximately 5 years of prior experience as a system administrator. My primary focus is back-end development using Go, where I design and build scalable, reliable distributed systems.
+I'm a software engineer with over 10 years of experience in web development and around 5 years in system administration. I specialize in backend development with Go, focusing on scalable, reliable distributed systems.
 
-💻 Programming Languages and Technologies:
-- Proficient in Go, with experience in building microservices and distributed systems.
-- Skilled in designing and implementing REST APIs, gRPC-based communication, and message-driven architectures.
-- Experienced in computer vision, including object detection, image processing, and object tracking using OpenCV.
-- Familiar with Python from earlier projects.
+💻 Core strengths:
+- Backend development with Go: microservices, clean architecture, concurrency, and performance optimization
+- API design: REST, gRPC, WebSocket, WebRTC
+- Event-driven and message-based systems: NATS, Kafka
+- Computer vision: object detection, tracking, and image processing with OpenCV
+- Infrastructure: Docker, Kubernetes, Helm, CI/CD
+- Databases: PostgreSQL, Redis, MongoDB
 
-🔧 Tech Stack:
-- Languages: Go.
-- Databases: PostgreSQL, Redis, MongoDB.
-- Messaging Systems: NATS, Kafka.
-- Containerization and Orchestration: Docker, Kubernetes, Helm.
-- Communication: REST, gRPC, WebSocket, WebRTC.
-- Computer Vision: OpenCV.
 
-Thank you for visiting my GitHub! Feel free to reach out if you’re interested in collaboration or have any questions.
+If you’re working on something exciting or want to connect — feel free to reach out!
 
 
 
